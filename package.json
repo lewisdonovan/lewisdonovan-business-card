@@ -1,7 +1,11 @@
 {
   "name": "lewisdonovan",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "A digital business card, available in the command line",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lewisdonovan/lewisdonovan-business-card"
+  },
   "main": "index.js",
   "bin": "./cli.js",
   "scripts": {
